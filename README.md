@@ -1,1 +1,1 @@
-# Flappy-Bird-Using-JavaScript
+# FLAPPY-BIRD GAME RECREATED USING JAVASCRIPT
